@@ -11,8 +11,6 @@
 LOG_DATE=$(date +'%Y-%m-%d')
 
 # Add custom output to appear in the logs
-# user_alert.conf can be used now to send an
-# outbound email based on this output.
 LOG_STATEMENT=": Daily UCS Backup Complete."
 LOG_FORMAT="$LOG_DATE $LOG_STATEMENT"
 
