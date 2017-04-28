@@ -1,10 +1,10 @@
 
-#Primitive automated backup solution for BIG-IP LTM
+# Primitive automated backup solution for BIG-IP LTM
 The script is to demostrate the flexibility of the BIG-IP platform.
 Showing that you can leverage the Linux Guest OS and crontab to
 expand on its basic functionality. 
 
-Setup your crontab This one runs at 11:30PM every night
+Setup your crontab. This one runs at 11:30PM every night
 ```
 # vi /etc/crontab
 # For help with crontab: http://crontab-generator.org/
