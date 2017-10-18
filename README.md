@@ -17,3 +17,4 @@ logging into to your remote host and installing the public key for you.
 ```
 bash:~# ssh-copy-id -i /path/to/pub_key <ip_address or hostname>
 ```
+Adding new commit message to the bottom of readme-edits 
